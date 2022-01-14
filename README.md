@@ -12,7 +12,7 @@ You need to have Selenium installed as well, to install it, run this in the term
 ## How to set-up for your usage.
 Open up `waitlistBot.py` and fill in your user information. An example of how to do so is commented in the file.
 
-Download an autoclicker on your phone, Open up the 2FA App, and set the autoclicker to indefinitely tap the location on your phone where the checkmark pops up to approve the 2FA.
+Have your phone near you for the initial 2FA authentication process.
 
 Then, in the directory where your `waitlistBot.py` file is located, type the following in your terminal
 `python waitlistBot.py` (or `python3 waitlistBot.py`)
